@@ -1,0 +1,6 @@
+{
+  "name": "FoodieGo",
+  "description": "On-demand food delivery app featuring restaurant discovery, customizable menus, seamless checkout, real-time courier tracking, exclusive promo codes, and customer profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
